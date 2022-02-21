@@ -11,4 +11,4 @@
 ##### &copy; tienhuynh-tn 2022
 
 ### Screenshots:
-![DDT](./screenshots/DDT-with-TDD-using-JUnit.png)
+![Source code of DDT/TDD using JUnit](./screenshots/DDT-with-TDD-using-JUnit.png)
