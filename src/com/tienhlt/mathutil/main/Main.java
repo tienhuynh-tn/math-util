@@ -33,7 +33,7 @@ public class Main {
         
         //Test case #1: check getF() with valid argument
         //n = 0, expected = 1; actual: đoán xem!!!
-        long expected = 1; //em hi vọng
+        long expected = 10; //em hi vọng
         long actual = MathUtil.getFactorial(0); //đoán xem 
         //compare 
         System.out.println("0! -> expected: " + expected
